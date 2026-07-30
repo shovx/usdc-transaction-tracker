@@ -1,0 +1,17 @@
+{
+  "name": "usdc-transaction-tracker",
+  "version": "1.0.0",
+  "description": "Track USDC transactions and balances on ARC and Ethereum",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["USDC", "ARC", "Ethereum", "blockchain", "transactions"],
+  "author": "Maxime Tisserand",
+  "license": "MIT"
+}
